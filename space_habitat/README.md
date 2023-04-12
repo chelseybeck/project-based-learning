@@ -1,5 +1,5 @@
 # Project: Design a Space Habitat for Humans
-![Image of Nasa space habitat concept](/nasa_habitat.jpg)
+![Image of Nasa space habitat concept](space_habitat/nasa_habitat.jpg)
 ## Subject Areas
 - Science
 - Math
